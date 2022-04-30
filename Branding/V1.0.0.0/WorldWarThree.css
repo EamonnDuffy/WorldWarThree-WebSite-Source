@@ -38,6 +38,7 @@
 }
 
 #imgBanner {
+    margin-left: 10px;
     display: block;
     max-width: 100%;
 }
