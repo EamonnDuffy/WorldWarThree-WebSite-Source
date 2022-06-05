@@ -55,3 +55,8 @@ nav {
 h1, h2, h3, h4 {
     color: orange;
 }
+
+th {
+    background-color: darkorange;
+    color: brown;
+}
