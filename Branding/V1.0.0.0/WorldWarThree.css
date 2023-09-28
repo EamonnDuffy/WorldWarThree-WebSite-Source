@@ -1,19 +1,15 @@
 /* WorldWarThree.css: V1.0.0.0: 2022_04_30: Created by Eamonn Anthony Duffy. */
 
-#divLogoTitleTagLineAndBanner {
+#divBannerResponsive {
+    clear: left;
 }
 
-#divLogoTitleAndTagLine {
-    float: left;
-}
-
-#divBanner {
-    float: left;
-    width: 950px;
+#divLogoTitleTagLine {
 }
 
 #divLogo {
     padding-left: 10px;
+    padding-bottom: 5px;
     float: left;
 }
 
@@ -35,12 +31,6 @@
 
 #imgLogo {
     height: 75px;
-}
-
-#imgBanner {
-    margin-left: 10px;
-    display: block;
-    max-width: 100%;
 }
 
 #iTagLine {
